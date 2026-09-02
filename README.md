@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
 
 <h3 align="center">B.Tech CSE Graduate | Java & Spring Boot Developer | Full-Stack Developer</h3>
